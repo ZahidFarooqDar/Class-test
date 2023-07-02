@@ -1,7 +1,7 @@
-# JOB PORTAL Project
+# UNIVERSITY EVENT MANAGEMENT
 ![Version](https://img.shields.io/static/v1?label=java-version&message=%3E=11&color=blue) ![documentation](https://img.shields.io/static/v1?label=documentation&message=yes&color=green) ![maintanined?](https://img.shields.io/static/v1?label=maintained?&message=yes&color=green) ![License](https://img.shields.io/static/v1?label=license&message=ZAHID&color=orange)
 
-README file for JOB PORTAL PROJECT
+README file for University Event Management
 ## 🏠  [Homepage](https://github.com/ZahidFarooqDar/Class-test/tree/main/UniversityEventManagement)
 ## Prerequisities
 * java >=11.0
@@ -18,7 +18,7 @@ README file for JOB PORTAL PROJECT
 * Application is based on MVC architecture where we have
 ---
 ### MODEL
-* It contains two models viz Student and Event
+* It contains two models viz Student and Event and an ENUM type model as well
 * It contains model of Student where we have entities of Student class
 ---
 ### CONTROLLER
